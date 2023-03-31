@@ -13,7 +13,8 @@
     "movement-detail.category": "Categoría",
     "movement-detail.amount": "Importe",
     "movement-detail.currentBalance": "Saldo Actual",
-    "movement-detail.badges": "Etiquetas"
+    "movement-detail.badges": "Etiquetas",
+    "joker-ui-container-title": "Chistes"
   },
   "en-US": {
     "login-page.button": "Sign in",
@@ -29,6 +30,7 @@
     "movement-detail.category": "Category",
     "movement-detail.amount": "Amount",
     "movement-detail.currentBalance": "Current Balance",
-    "movement-detail.badges": "Badges"
+    "movement-detail.badges": "Badges",
+    "joker-ui-container-title": "jokes"
   }
 }
